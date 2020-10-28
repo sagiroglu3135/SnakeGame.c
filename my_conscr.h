@@ -4,12 +4,12 @@
 	Demo console screen functions 
 		 THANKS
 	-----------------
-	Efendi NASİBOĞLU.
-	Barış Tekin TEZEL.
+	Efendi NASÄ°BOÄLU.
+	BarÄ±ÅŸ Tekin TEZEL.
 **/
 /** 
 	conscr.h dosyasi 
-	DEÜ Bilgisyar Bilimleri Bölüm Başkanı Prof. Dr. Efendi NASİBOĞLU'na ve Araş. Gör. Baris Tekin TEZEL'e teşekkürler.
+	DEÃœ Bilgisyar Bilimleri BÃ¶lÃ¼m BaÅŸkanÄ± Prof. Dr. Efendi NASÄ°BOÄLU'na ve AraÅŸ. GÃ¶r. BarÄ±ÅŸ Tekin TEZEL'e teÅŸekkÃ¼rler.
 **/
 #include <windows.h>
 #include <stdio.h>
