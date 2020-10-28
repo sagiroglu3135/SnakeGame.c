@@ -1,7 +1,16 @@
 #ifndef MY_CONSCR_H_
 #define MY_CONSCR_H_
-/** Demo console screen functions **/
-/** conscr.h dosyasi **/
+/** 
+	Demo console screen functions 
+		 THANKS
+	-----------------
+	Efendi NASÝBOÐLU.
+	Barýþ Tekin TEZEL.
+**/
+/** 
+	conscr.h dosyasi 
+	DEÜ Bilgisyar Bilimleri Bölüm Baþkaný Prof. Dr. Efendi NASÝBOÐLU'na ve Araþ. Gör. Baris Tekin TEZEL'e teþekkürler.
+**/
 #include <windows.h>
 #include <stdio.h>
 
